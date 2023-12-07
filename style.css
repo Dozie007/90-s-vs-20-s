@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right, #f6b64f, #975f04);
+    background-color: burlywood;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+footer {
+    text-align: left;
+    margin-top: auto;   
+
+}
+
+nav {
+    text-align: left;
+    font-weight: 400;
+    font-size: small;
+}
